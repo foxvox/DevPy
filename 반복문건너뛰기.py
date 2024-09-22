@@ -3,4 +3,4 @@ for i in range(1, 13):
         continue
     print(i, end=' ')
 
-print()
+print() 
